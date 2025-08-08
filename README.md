@@ -23,5 +23,5 @@
 5. For each factor, absolute loadings below the 90th percentile are removed; and for each question that has retained loading on more than one factors, only the loading with the highest absolute value is kept.
 6. This approach has actually helped to find badly-phrased questions because they would be the ones left with no loadings or have their highest loading removed.
 
-[Horn_PA_21.pdf](SBRI%202023%20Public%20README/Horn_PA_21.pdf)<!-- {"embed":"true", "preview":"true"} -->
-[Horn_PA_22.pdf](SBRI%202023%20Public%20README/Horn_PA_22.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[Horn_PA_21.pdf](README/Horn_PA_21.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[Horn_PA_22.pdf](README/Horn_PA_22.pdf)<!-- {"embed":"true", "preview":"true"} -->
