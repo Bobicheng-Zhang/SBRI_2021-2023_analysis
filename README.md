@@ -1,5 +1,7 @@
 # SBRI 2023 Public README
 
+This repository has some information and scripts from the preliminary analysis of the Small Business Resilience Index from 2021 to 2023. This was an attempt to measure, quantify and utilize aspects of small business performance and health particularly in adverse conditions. At the time, a combination of unconventional data structure and unique record keeping required a substantial amount of bandaiding and backpedaling. These surveys have now been updated to not require extensive cleaning as they used to.
+
 ## Preliminary Data Cleaning
 1. First, all personal information, including IP address, longitude, latitude, email address, and any other information that could be used to identify the respondent was removed from the raw data.
 2. Second, demographic information, such as birth sex, self-identified gender, race/ethnicity, region/location, industry/sector was compiled, truncated on a per-respondent basis and counted.
